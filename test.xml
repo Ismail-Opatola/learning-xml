@@ -1,0 +1,14 @@
+<?xml version='1.0'?>
+<!DOCTYPE days [
+  <!ELEMENT days (monday, teusday)>
+  <!ELEMENT monday (#PCDATA)>
+  <!ELEMENT teusday (#PCDATA)>
+]>
+<days>
+  <!-- comments -->
+  <monday>1</monday>
+  <teusday>2</teusday>
+</days>
+
+<!-- complex types -->
+<!-- element content -->

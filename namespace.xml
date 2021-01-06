@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info:information xmlns:info="www.abc.com">
+  <!-- namespace in xml -->
+  <info:Student>
+    <info:firstname>Adeola</info:firstname>
+    <info:lastname>Opatola</info:lastname>
+    <info:age>25</info:age>
+    <info:gender>Female</info:gender>
+    <info:info>Lorem Ipsum</info:info>
+  </info:Student>
+</info:information>

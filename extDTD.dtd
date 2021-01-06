@@ -1,0 +1,4 @@
+<!-- EXTERNAL DTD -->
+<!ELEMENT days (monday, teusday)>
+<!ELEMENT monday (#PCDATA)>
+<!ELEMENT teusday (#PCDATA)>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- import external DTD -->
+<!DOCTYPE days SYSTEM "./extDTD.dtd">
+<!-- import css -->
+<?xml-stylesheet href="./style.css" type="text/css" ?>
+<days>
+  <!-- comments -->
+  <monday>1</monday>
+  <teusday>2</teusday>
+</days>

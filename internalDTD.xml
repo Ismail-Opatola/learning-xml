@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DTD -->
+<!DOCTYPE adress [
+  <!ELEMENT adress (name, company, phone)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT company (#PCDATA)>
+  <!ELEMENT phone (#PCDATA)>
+]>
+<adress>
+  <name>John</name>
+  <company>Aptech</company>
+  <phone>080000001</phone>
+</adress>

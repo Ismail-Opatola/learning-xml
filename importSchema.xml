@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- import schema -->
+<address xmlns="www.abc.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="www.abc.com ./schema.xsd">
+  <name>John</name>
+  <company>Aptech</company>
+  <phone>080000001</phone>
+</address>

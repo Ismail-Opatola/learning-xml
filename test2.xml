@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- simple xml -->
+<Student> 
+  <firstname>Adeola</firstname>
+  <lastname>Opatola</lastname>
+  <age>25</age>
+  <gender>Female</gender>
+  <info>Lorem Ipsum</info>
+</Student> 
