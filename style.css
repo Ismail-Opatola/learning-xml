@@ -1,6 +1,11 @@
+days {
+  max-width: 600px;
+  margin: 0 auto;
+}
 monday, teusday {
-  background-color: orangered;
-  font-size: larger;
+  background-color: orange;
+  color: #ffffff;
+  font-size: 33px;
   font-weight: 900;
   display: block;
   text-align: center;
